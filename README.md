@@ -1,7 +1,7 @@
 [![MasterHead](https://yt3.googleusercontent.com/G-GxNIRuAs751J-WYZAZtehTfpq7PmQs3cNSbv8Le2z6Qn8dIICTMRlySdutj3eUfw0eVNwT0A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://aymerickmichelet.fr/)
 
 <h1 align="center">Hi 👋, I'm Aymerick</h1>
-<h3 align="center">A freelance backend developer from France 🇫🇷</h3>
+<h3 align="center">A freelance software developer from France 🇫🇷</h3>
 
 <br>
 
